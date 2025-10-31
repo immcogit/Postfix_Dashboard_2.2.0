@@ -1,4 +1,4 @@
-# 📧 Postfix Mail Relay Dashboard v2.1
+# 📧 Postfix Mail Relay Dashboard v2.1.0
 
 A modern, production-ready full-stack web application for monitoring and managing Postfix mail server logs with AI-powered analytics.
 
@@ -39,7 +39,7 @@ The Postfix Mail Relay Dashboard is a comprehensive monitoring solution that pro
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Production Ready**: Proper Tailwind CSS build, favicon, collapsible sidebar
 
-## ✨ What's New in v2.1
+## ✨ What's New in v2.1.0
 
 ### 🎉 Major Improvements
 
